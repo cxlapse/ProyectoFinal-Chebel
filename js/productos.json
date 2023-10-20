@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera 4tune",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Sweater Bite",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 8700
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera Bones",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Buzo Death",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Campera Y2K",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera Blade",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera CiberFairy",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera Misfits",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Remera Angels",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Remera SpikyHead",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Remera Yeshibounty",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Remera Inherited",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Remera Vencede",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Plagueround",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Broken",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Stars",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9800
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón SpiderWeb",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 8700
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Tribal",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9500
+    }
+]
